@@ -21,7 +21,7 @@ To use SDataClient, you need to have Python 3.x installed on your system. You ca
 3. Install the required dependencies:
 
    ```shell
-   pip install playwright requests
+   pip install playwright requests bs4
    ```
 
 ## Usage
